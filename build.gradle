@@ -1,0 +1,6 @@
+
+task doSomething(type: com.bluecedar.MyCustomTask) {
+    prefix = 'Modified Prefix'
+    basePath = '/my/custom/path'
+}
+
